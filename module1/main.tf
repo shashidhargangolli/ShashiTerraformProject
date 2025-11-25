@@ -8,7 +8,7 @@ resource "aws_instance" "shashi" {
     instance_type = var.instance_type_value
 
     tags = {
-        Name = "shashi-instance"
+        Name = "Shashidhar-instance"
     }
 
 }  
